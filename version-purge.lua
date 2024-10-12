@@ -1,8 +1,5 @@
 {
     "version": "1.4",
-    "changeLogs": {
-        "1.4": "Added support for new feature",
-        "version": "sdawda"
-    },
+    "changeLogs": " + Now compatible with origen inventory",
     "releaseDate": "10/12/24"
 }
