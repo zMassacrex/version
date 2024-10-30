@@ -1,5 +1,5 @@
 {
-    "version": "1.1",
-    "changeLogs": "Version 1.1 - FIX ITEMS (PLEASE INSTALL ITEMS AND IMAGES AGAIN)!",
+    "version": "1.2",
+    "changeLogs": "Version 1.2 - FIX ERROR No Such export AddMoney!",
     "releaseDate": "10/13/24"
 }
