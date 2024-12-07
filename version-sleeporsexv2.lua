@@ -1,5 +1,5 @@
 {
     "version": "1.8",
-    "changeLogs": " Fix Soon",
+    "changeLogs": " Fixed minor error",
     "releaseDate": "12/07/24"
 }
